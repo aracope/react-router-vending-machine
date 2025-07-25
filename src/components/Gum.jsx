@@ -6,7 +6,7 @@ export default function Gum() {
   return (
     <main className="page">
       <h1>Gum</h1>
-      <img class="snack" src={gumImg} alt="cartoonish drawing of a pack of gum" />
+      <img className="snack-img" src={gumImg} alt="cartoonish drawing of a pack of gum" />
       <p>Chewy and sweet!</p>
       <Link to="/">Back to Vending Machine</Link>
     </main>

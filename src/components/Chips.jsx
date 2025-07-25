@@ -13,7 +13,7 @@ export default function Chips() {
   return (
     <main className="page">
       <h1>Chips</h1>
-      <img class="snack" src={chipsImg} alt="Bag of chips" />
+      <img className="snack-img"src={chipsImg} alt="Bag of chips" />
       <p>Crunchy, salty goodness!</p>
 
       {/* Simple way to go back */}

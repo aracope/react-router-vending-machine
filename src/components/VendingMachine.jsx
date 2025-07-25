@@ -30,6 +30,7 @@ export default function VendingMachine() {
         <li>
           <Link to="/gum">Gum</Link>
         </li>
+        
       </ul>
     </main>
   );

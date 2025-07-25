@@ -47,8 +47,8 @@ The app simulates a vending machine where users can click snacks to view their d
 
 ### **1. Clone the repository**
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/aracope/react-router-vending-machine
+cd react-router-vending-machine
 ```
 ### **2. Install dependencies**
 ```bash
@@ -72,13 +72,12 @@ npm run dev
 
 - Add unit tests with Vitest + React Testing Library.
 
-## Credits
+## **Credits**
 The images used in this project are sourced from the following creators:
 
-Gum: [Bubble Gum Candy Cartoon Vector](https://www.freepik.com/free-vector/bubble-gum-candy-cartoon-vector-icon-illustration-food-object-icon-concept-isolated-premium-flat_56274235.htm#fromView=search&page=1&position=1&uuid=a9979693-7155-40d1-8b35-974e7788c93a&query=bubble+gum) - Freepik
-
-Soda:  [Soda Bubbles Illustration](https://www.freepik.com/free-vector/soda-bubbles-champagne-water-oxygen-air-fizz_7743081.htm#fromView=search&page=1&position=3&uuid=facf311c-2502-461b-b69a-ee46ee6bbcce&query=soda) - Freepik
-
-Chips:  [Realistic Chips Package](https://www.freepik.com/free-vector/realistic-chips-package_9398713.htm#fromView=search&page=1&position=9&uuid=c9636670-fd0b-4e38-aa4d-86df87b0ea61&query=chips)- Freepik
-
-Vending Machine: [Vending Machine](https://unsplash.com/photos/red-and-green-coca-cola-vending-machine-GIklu6QAb9g) - Unsplash
+- **Gum**: [Bubble Gum Candy Cartoon Vector](https://www.freepik.com/free-vector/bubble-gum-candy-cartoon-vector-icon-illustration-food-object-icon-concept-isolated-premium-flat_56274235.htm) - Freepik  
+- **Soda**: [Soda Bubbles Illustration](https://www.freepik.com/free-vector/soda-bubbles-champagne-water-oxygen-air-fizz_7743081.htm) - Freepik  
+- **Chips**: [Realistic Chips Package](https://www.freepik.com/free-vector/realistic-chips-package_9398713.htm) - Freepik  
+- **Vending Machines**:  
+  - [Goblin Vending Machine](https://unsplash.com/photos/red-and-green-coca-cola-vending-machine-GIklu6QAb9g) - Unsplash  
+  - [Normal Vending Machine](https://www.freepik.com/free-vector/snacks-vending-machine-realistic-with-electronic-control-panel-isolated_7200947.htm) - Freepik
