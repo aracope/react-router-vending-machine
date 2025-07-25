@@ -7,11 +7,13 @@
 
 import React from "react";
 import { Link } from "react-router-dom";
+import vendingMachineImg from '../assets/vending_machine.jpg';
 
 export default function VendingMachine() {
   return (
     <main className="page">
       <h1>Vending Machine</h1>
+      <img class="vending-machine" src={vendingMachineImg} alt="vending machine" />
       <p>Select your snack:</p>
 
       <ul className="snack-list">

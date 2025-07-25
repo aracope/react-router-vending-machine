@@ -1,12 +1,7 @@
-# React + Vite
+gum image source: https://www.freepik.com/free-vector/bubble-gum-candy-cartoon-vector-icon-illustration-food-object-icon-concept-isolated-premium-flat_56274235.htm#fromView=search&page=1&position=1&uuid=a9979693-7155-40d1-8b35-974e7788c93a&query=bubble+gum
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+soda image source: https://www.freepik.com/free-vector/soda-bubbles-champagne-water-oxygen-air-fizz_7743081.htm#fromView=search&page=1&position=3&uuid=facf311c-2502-461b-b69a-ee46ee6bbcce&query=soda
 
-Currently, two official plugins are available:
+chips image source: https://www.freepik.com/free-vector/realistic-chips-package_9398713.htm#fromView=search&page=1&position=9&uuid=c9636670-fd0b-4e38-aa4d-86df87b0ea61&query=chips
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+vending machine: https://unsplash.com/photos/calendar-VFtvEazPtmo

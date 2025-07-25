@@ -40,3 +40,8 @@ body {
 .snack-list li {
   margin: 0.25rem 0;
 }
+
+img {
+  height: 300px;
+  width: 300px;
+}
